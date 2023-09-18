@@ -1,25 +1,5 @@
 {
-	"games": [
-		{
-			"Title": "Escape Simulator",
-			"Genre": "Puzzle, co-op, escape room",
-			"Year": "2021"
-		},
-		{
-			"Title": "Disney Dreamlight Valley",
-			"Genre": "Life simulation, adventure", 
-			"Year": "2022"
-		},
-		{
-			"Title": "The Great Ace Attorney Chronicles",
-			"Genre": "Visual novel, detective, adventure",
-			"Year": "2021"
-		},
-		{
-			"Tite": "Animal Crossing",
-			"Genre": "life simulation, adventure",
-			"Year": "2020"
-		},
+	"My Favorite Games": [
 		{
 			"Title": "Stardew Valley",
 			"Genre": "Life simulation, adventure, RPG",
@@ -35,5 +15,25 @@
 			"Genre": "Adventure, puzzle, indie"
 			"Year": "2018"
 		}
+		{
+			"Tite": "Animal Crossing",
+			"Genre": "life simulation, adventure",
+			"Year": "2020"
+		},		
+		{
+			"Title": "Escape Simulator",
+			"Genre": "Puzzle, co-op, escape room",
+			"Year": "2021"
+		},
+		{
+			"Title": "The Great Ace Attorney Chronicles",
+			"Genre": "Visual novel, detective, adventure",
+			"Year": "2021"
+		},		
+		{
+			"Title": "Disney Dreamlight Valley",
+			"Genre": "Life simulation, adventure", 
+			"Year": "2022"
+		},		
 	]
 }
