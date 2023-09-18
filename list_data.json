@@ -14,6 +14,26 @@
 			"Title": "The Great Ace Attorney Chronicles",
 			"Genre": "Visual novel, detective, adventure",
 			"Year": "2021"
+		},
+		{
+			"Tite": "Animal Crossing",
+			"Genre": "life simulation, adventure",
+			"Year": "2020"
+		},
+		{
+			"Title": "Stardew Valley",
+			"Genre": "Life simulation, adventure, RPG",
+			"Year": "2016"
+		},
+		{
+			"Title": "Overcooked 2",
+			"Genre": "Co-op, action, simulation",
+			"Year": "2018"
+		},
+		{
+			"Title": "Return of the Obra Dinn",
+			"Genre": "Adventure, puzzle, indie"
+			"Year": "2018"
 		}
 	]
 }
